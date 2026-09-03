@@ -7,13 +7,13 @@
 ## Data i grunden
 
 * [Introduktion](data-i-grunden/readme.md)
-* [01 · Vad är data?](data-i-grunden/01-vad-ar-data.md)
-* [02 · Binära tal](data-i-grunden/02-binara-tal.md)
-* [03 · Text](data-i-grunden/03-text.md)
-* [04 · Bilder](data-i-grunden/04-bilder.md)
-* [05 · Ljud](data-i-grunden/05-ljud.md)
-* [06 · Personlig information](data-i-grunden/06-personlig-information.md)
-* [07 · One-hot encoding](data-i-grunden/07-one-hot-encoding.md)
+* [Vad är data?](data-i-grunden/01-vad-ar-data.md)
+* [Binära tal](data-i-grunden/02-binara-tal.md)
+* [Text](data-i-grunden/03-text.md)
+* [Bilder](data-i-grunden/04-bilder.md)
+* [Ljud](data-i-grunden/05-ljud.md)
+* [Personlig information](data-i-grunden/06-personlig-information.md)
+* [One-hot encoding](data-i-grunden/07-one-hot-encoding.md)
 
 ## AI historia
 
