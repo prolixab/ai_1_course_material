@@ -1,7 +1,5 @@
 # Innehållsförteckning
 
-## Data i grunden
-
 * [Vad är data?](01-vad-ar-data.md)
 * [Binära tal](02-binara-tal.md)
 * [Text](03-text.md)
