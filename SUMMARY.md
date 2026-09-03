@@ -1,6 +1,6 @@
 # Innehållsförteckning
 
-* [AI 1 – Kurs i artificiell intelligens](README.md)
+* [Hem](hem/README.md)
 
 ## Data i grunden
 

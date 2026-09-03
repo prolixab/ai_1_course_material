@@ -1,3 +1,3 @@
-# Table of contents
+# Innehållsförteckning
 
-* [Developer Platform](README.md)
+* [AI 1 — Kursöversikt](README.md)
