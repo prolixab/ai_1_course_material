@@ -1,3 +1,15 @@
 # Table of contents
 
 * [AI historia](README.md)
+  * [Pionjärerna (1940–1956)](01-pionjarerna.md)
+  * [Tidiga framsteg (1956–1974)](02-tidiga-framsteg.md)
+  * [Första AI-vintern (1974–1980)](03-forsta-ai-vintern.md)
+  * [Expertsystemens era (1980–1987)](04-expertsystem.md)
+  * [Andra AI-vintern (1987–1993)](05-andra-ai-vintern.md)
+  * [Maskininlärningens framväxt (1993–2010)](06-maskininlarning.md)
+  * [Deep learning-revolutionen (2010–2020)](07-deep-learning.md)
+  * [Generativ AI och vår tid (2020-talet)](08-generativ-ai.md)
+  * [Nyckelbegrepp](09-nyckelbegrepp.md)
+  * [Viktiga personer](10-viktiga-personer.md)
+  * [Diskussionsfrågor och övningar](11-diskussion-och-ovningar.md)
+  * [Källförteckning](12-kallforteckning.md)
