@@ -1,0 +1,57 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: AI 1
+  structure:
+    - type: section
+      key: section-1
+      title: Home
+      path: home
+      icon: house
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Home
+          path: home
+          default: true
+          content:
+            directory: ./hem
+    - type: section
+      key: section-2
+      title: AI historia
+      path: ai-historia
+      icon: clock-rotate-left
+      children:
+        - type: space
+          key: space-2
+          title: AI historia
+          path: ai-historia
+          default: true
+          content:
+            directory: ./AI historia
+    - type: section
+      key: section-3
+      title: Data
+      path: data-vad-ar-det
+      icon: database
+      children:
+        - type: space
+          key: space-3
+          title: Data - vad är det?
+          path: data-vad-ar-det
+          default: true
+          content:
+            directory: ./data-i-grunden
+    - type: section
+      key: section-4
+      title: Algoritmer
+      path: algoritmer
+      icon: square-binary
+      children:
+        - type: space
+          key: space-4
+          title: Algoritmer
+          path: algoritmer
+          default: true
+          content:
+            directory: ./algoritmer
