@@ -22,6 +22,3 @@ All information — text, bild, ljud, video, mätdata — kan kodas som tal. Och
 
 I maskininlärning är förståelsen av datarepresentation central: en modell lär sig aldrig av "en bild av en katt" — den lär sig av en lång vektor med tal som representerar pixlarnas RGB-värden. Den lär sig aldrig av "Stockholm" — den lär sig av `[1, 0, 0]` efter att vi tillämpat one-hot encoding.
 
-{% hint style="info" %}
-**Nästa steg efter det här materialet:** hur en modell faktiskt lär sig mönster i dessa talvektorer — optimering, förlustfunktioner och gradientmetoden.
-{% endhint %}
