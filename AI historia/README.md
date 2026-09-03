@@ -6,16 +6,16 @@ Artificiell intelligens har en rik och dramatisk historia — fylld av stora lö
 
 Historikavsnittet är uppdelat i följande delar:
 
-1. [Pionjärerna – grunden läggs (1940–1956)](01-pionjarerna.md)
-2. [De tidiga lovtalen och första framstegen (1956–1974)](02-tidiga-framsteg.md)
-3. [Första AI-vintern (1974–1980)](03-forsta-ai-vintern.md)
-4. [Expertsystemens era och ny optimism (1980–1987)](04-expertsystem.md)
-5. [Andra AI-vintern (1987–1993)](05-andra-ai-vintern.md)
-6. [Maskininlärningens framväxt (1993–2010)](06-maskininlarning.md)
-7. [Deep learning-revolutionen (2010–2020)](07-deep-learning.md)
-8. [Generativ AI och vår tid (2020-talet)](08-generativ-ai.md)
+1. [Pionjärerna – grunden läggs (1940–1956)](ai-historia/01-pionjarerna.md)
+2. [De tidiga lovtalen och första framstegen (1956–1974)](ai-historia/02-tidiga-framsteg.md)
+3. [Första AI-vintern (1974–1980)](ai-historia/03-forsta-ai-vintern.md)
+4. [Expertsystemens era och ny optimism (1980–1987)](ai-historia/04-expertsystem.md)
+5. [Andra AI-vintern (1987–1993)](ai-historia/05-andra-ai-vintern.md)
+6. [Maskininlärningens framväxt (1993–2010)](ai-historia/06-maskininlarning.md)
+7. [Deep learning-revolutionen (2010–2020)](ai-historia/07-deep-learning.md)
+8. [Generativ AI och vår tid (2020-talet)](ai-historia/08-generativ-ai.md)
 
----
+***
 
 ## Vad är artificiell intelligens?
 
@@ -35,11 +35,11 @@ Begreppet "intelligens" är dock svårdefinierat. Det finns ingen universellt ac
 **Viktigt att veta:** När media rapporterar om AI idag handlar det nästan alltid om _smal AI_ — system som är mycket bra på en sak, men som saknar generell förståelse eller medvetande.
 {% endhint %}
 
----
+***
 
 ## Referensmaterial
 
-* [Nyckelbegrepp](09-nyckelbegrepp.md)
-* [Viktiga personer](10-viktiga-personer.md)
-* [Diskussionsfrågor och övningar](11-diskussion-och-ovningar.md)
-* [Källförteckning](12-kallforteckning.md)
+* [Nyckelbegrepp](ai-historia/09-nyckelbegrepp.md)
+* [Viktiga personer](ai-historia/10-viktiga-personer.md)
+* [Diskussionsfrågor och övningar](ai-historia/11-diskussion-och-ovningar.md)
+* [Källförteckning](ai-historia/12-kallforteckning.md)
