@@ -1,6 +1,5 @@
 # Innehållsförteckning
 
-* [Om avsnittet](README.md)
 * [Algoritmer](algoritmer.md)
   * [Vad är en algoritm?](algoritmer.md#vad-är-en-algoritm)
   * [Algoritmers historia](algoritmer.md#algoritmers-historia)
