@@ -1,12 +1,8 @@
 # Innehållsförteckning
 
-* [Algoritmer](algoritmer.md)
-  * [Vad är en algoritm?](algoritmer.md#vad-är-en-algoritm)
-  * [Algoritmers historia](algoritmer.md#algoritmers-historia)
-  * [Algoritm vs. Program](algoritmer.md#vad-skiljer-en-algoritm-från-ett-program)
-  * [Kännetecken](algoritmer.md#vad-kännetecknar-en-bra-algoritm)
-  * [Pseudokod](algoritmer.md#pseudokod)
-  * [Flödesscheman](algoritmer.md#flödesscheman)
-  * [Vardagsexempel](algoritmer.md#vardagsexempel-på-algoritmer)
-  * [Algoritmer och AI](algoritmer.md#algoritmer-och-ai)
-  * [Övningar](algoritmer.md#övningar)
+* [Om avsnittet](README.md)
+* [01 · Vad är en algoritm?](01-vad-ar-en-algoritm.md)
+* [02 · Pseudokod](02-pseudokod.md)
+* [03 · Flödesscheman](03-flodesschemat.md)
+* [04 · Vardagsexempel och AI](04-vardagsexempel.md)
+* [05 · Övningar](05-ovningar.md)
